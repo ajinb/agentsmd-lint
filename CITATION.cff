@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "agentsmd-lint"
+abstract: "Lint an AGENTS.md or CLAUDE.md against the repository it describes: dead paths, unknown scripts, overviews and unverifiable instructions. Stdlib only."
+authors:
+  - family-names: Baby
+    given-names: Ajin
+    orcid: "https://orcid.org/0009-0007-6190-9516"
+repository-code: "https://github.com/ajinb/agentsmd-lint"
+url: "https://cloudandsre.com"
+license: Apache-2.0
+version: 0.1.0
+date-released: 2026-11-08

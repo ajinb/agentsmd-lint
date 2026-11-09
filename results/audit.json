@@ -1,0 +1,16 @@
+{
+  "method": "Every error-level finding from scan.py was read by hand against the line that produced it. Confirmed means the line presents the path as existing in this repository and the path is absent from the default-branch tree at the scanned commit.",
+  "files_linted": 321,
+  "error_findings": 44,
+  "repos_with_findings": 33,
+  "confirmed_stale_references": 20,
+  "repos_with_confirmed": 19,
+  "precision": 0.455,
+  "share_of_files_with_confirmed_stale_reference": 0.059,
+  "earlier_passes": {
+    "first_rules_files_with_dead_path": 0.492,
+    "second_rules_files_with_dead_path": 0.153,
+    "final_rules_files_with_dead_path": 0.097,
+    "second_pass_sample_precision": "17 of 50"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "repos_checked": 1000,
+  "repos_with_agents_md": 321,
+  "median_lines": 112,
+  "p90_lines": 370.4,
+  "median_approx_tokens": 2013,
+  "p90_approx_tokens": 6640.2,
+  "share_with_any_error": 0.103,
+  "share_by_rule": {
+    "repo-overview": 0.408,
+    "size": 0.296,
+    "vague-instruction": 0.171,
+    "no-verify-command": 0.146,
+    "dead-path": 0.097,
+    "unknown-make-target": 0.006
+  }
+}
