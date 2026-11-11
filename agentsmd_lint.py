@@ -224,7 +224,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--strict",
         action="store_true",
-        help="exit 1 on any error-level finding; hand-audited precision was 45%, so opt in",
+        help="exit 1 on any error-level finding; hand-audited precision was 45%%, so opt in",
     )
     args = parser.parse_args(argv)
     root = Path(args.repo).resolve()
